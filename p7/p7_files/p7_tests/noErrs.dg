@@ -1,0 +1,33 @@
+int a;
+int b;
+int c;
+int d;
+bool e;
+bool f;
+bool g;
+
+int i;
+
+int fun(int a, bool k){
+    a = 5;
+    k = true;
+    if(k){
+        a++;
+    }
+    else{
+        a--;
+    }
+    return a;
+}
+
+void s(){
+    //This is a comment.
+}
+
+int v(int a, int b, int c, int d, bool e, bool f, bool g, int i){
+    return 99;
+}
+
+int main(){
+ output("hello world");
+}

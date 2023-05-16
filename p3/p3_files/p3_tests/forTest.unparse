@@ -1,0 +1,10 @@
+int forTest() {
+	for (int a;(a <= 10);a++){
+		int b;
+		int c;
+		b = 5;
+		c = 5;
+	
+}
+	return b;
+}

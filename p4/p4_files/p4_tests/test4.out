@@ -1,0 +1,5 @@
+int main(->int)(){
+    int b(int);
+    b(int) = true;
+    return b(int);
+}

@@ -1,0 +1,6 @@
+bool b;
+int foo(int a){
+b = true;
+return b;
+}
+

@@ -1,0 +1,5 @@
+FATAL [4,9]-[4,10]: Illegal character &
+FATAL [4,10]-[4,11]: Illegal character &
+FATAL [5,1]-[5,6]: Invalid assignment operation
+FATAL [8,8]-[8,9]: Bad return value
+Type Analysis Failed

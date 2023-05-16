@@ -1,0 +1,3 @@
+bool func(int a, bool b){
+	return (a or b);
+}

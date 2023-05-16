@@ -1,0 +1,8 @@
+FATAL [7,8]-[7,9]: Non-bool expression used as an if condition
+FATAL [14,16]-[14,18]: Non-bool expression used as a loop condition
+FATAL [23,11]-[23,17]: Non-bool expression used as a loop condition
+FATAL [25,16]-[25,20]: Return with a value in void function
+FATAL [29,8]-[29,14]: Non-bool expression used as an if condition
+FATAL [31,16]-[31,18]: Return with a value in void function
+FATAL [33,12]-[33,18]: Attempt to output void
+Type Analysis Failed

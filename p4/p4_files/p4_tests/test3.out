@@ -1,0 +1,7 @@
+int a(int);
+int main(->int)(){
+    bool b(bool);
+    b(bool) = 10;
+    a(int) = b(bool);
+    return a(int);
+}

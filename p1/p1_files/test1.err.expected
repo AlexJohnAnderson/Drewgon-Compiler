@@ -1,0 +1,17 @@
+FATAL [1,1]-[1,15]: Unterminated string literal detected
+FATAL [2,1]-[2,21]: Unterminated string literal detected
+FATAL [4,1]-[4,13]: Unterminated string literal detected
+FATAL [8,5]-[8,6]: Illegal character .
+FATAL [8,8]-[8,9]: Illegal character .
+FATAL [8,9]-[8,10]: Illegal character '
+FATAL [8,11]-[8,12]: Illegal character '
+FATAL [12,1]-[12,2]: Illegal character @
+FATAL [13,1]-[13,2]: Illegal character #
+FATAL [14,1]-[14,2]: Illegal character $
+FATAL [15,1]-[15,2]: Illegal character %
+FATAL [16,1]-[16,2]: Illegal character ^
+FATAL [17,1]-[17,2]: Illegal character &
+FATAL [23,1]-[23,3]: Unterminated string literal detected
+FATAL [24,1]-[24,2]: Illegal character '
+FATAL [26,1]-[26,2]: Illegal character .
+FATAL [28,1]-[28,15]: Integer literal overflow

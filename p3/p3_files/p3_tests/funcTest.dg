@@ -1,0 +1,6 @@
+int func1()
+{
+ int example;
+ example = 10;
+ return example;
+}

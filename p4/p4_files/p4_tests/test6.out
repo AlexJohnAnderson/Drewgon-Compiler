@@ -1,0 +1,5 @@
+int main(int->int)(int b(int)){
+    for (b(int) = 100; b(int) > 90; b(int)--){
+        return b(int);
+    }
+}

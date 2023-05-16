@@ -1,0 +1,12 @@
+int a;
+bool b;
+int c;
+void foo(){
+a = 5;
+b = true;
+if(a < b){
+c = a;
+
+}
+}
+

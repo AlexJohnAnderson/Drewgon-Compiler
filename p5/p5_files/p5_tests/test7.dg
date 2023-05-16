@@ -1,0 +1,12 @@
+int a;
+int func(int a){
+	int b;
+	b = a * 2;
+	return b;
+}
+
+int main(){
+	a();
+	func(a);
+	output(func(a));
+}

@@ -1,0 +1,9 @@
+int a;
+bool b;
+int c;
+int foo(){
+a =76;
+b = true;
+c = a * b;
+return c;
+}

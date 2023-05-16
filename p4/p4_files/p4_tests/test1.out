@@ -1,0 +1,5 @@
+int func(int->int)(int n(int)){
+    int a(int);
+    a(int) = n(int);
+    return a(int);
+}

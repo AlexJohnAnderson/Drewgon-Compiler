@@ -1,0 +1,14 @@
+int Func() {
+	bool b;
+	b = false;
+	while ((b == false)) {
+		int a;
+		a = 10;
+		while ((a < 10)) {
+			a++; 
+
+}
+
+}
+
+}

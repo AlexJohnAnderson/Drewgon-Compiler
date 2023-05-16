@@ -1,0 +1,4 @@
+int func(bool a){
+	a = true;
+	return (a);
+}

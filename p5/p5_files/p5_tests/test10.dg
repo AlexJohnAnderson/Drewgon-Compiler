@@ -1,0 +1,5 @@
+int func(int a, bool b){
+	b = a;
+	return b;
+}
+	

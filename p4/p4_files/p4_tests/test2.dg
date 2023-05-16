@@ -1,0 +1,7 @@
+int a;
+int main(){
+	int n;
+	n = 5;
+	a = n;
+	return a;
+}

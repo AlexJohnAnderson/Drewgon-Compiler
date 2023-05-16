@@ -1,0 +1,10 @@
+bool p;
+int foo(int a){
+
+if(true && ){
+a = p;
+}
+
+return p;
+}
+

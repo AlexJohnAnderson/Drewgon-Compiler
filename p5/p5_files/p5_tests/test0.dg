@@ -1,0 +1,13 @@
+int fnc(){
+return 1;
+}
+
+int fun(){
+return 1;
+}
+
+int main(){
+
+fnc = fun;
+
+}
